@@ -4,7 +4,7 @@ Information Technology graduate focused on **Web Application Security, VAPT, API
 
 ## Security Testing & Technical Skills
 
-- **Web & API Security:** Burp Suite, live web applications testing, SAST/DAST
+- **Web & API Security:** Burp Suite,  web applications testing, SAST/DAST
 - **Vulnerability Assessment:** Nessus, Nmap, Metasploit Framework, SQLmap
 - **Network Security:** Wireshark, Nmap, ffuf, TCP/IP analysis
 - **Application Security:** SQL Injection, XSS, IDOR/BOLA, BFLA, authentication and authorization testing, business logic vulnerabilities, SSRF and security misconfigurations
